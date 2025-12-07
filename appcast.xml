@@ -6,10 +6,30 @@
     <description>Most recent updates for SleekVoice</description>
     <language>en</language>
     <item>
+      <title>Version 2.0</title>
+      <sparkle:version>200</sparkle:version>
+      <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 2.0</h2>
+        <ul>
+          <li>Complete rebrand to SleekVoice</li>
+          <li>New bundle identifier</li>
+          <li>Independent update system</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/bvsbharat/sleekvoice-releases/releases/download/v2.0/SleekVoice.dmg"
+        sparkle:version="200"
+        sparkle:shortVersionString="2.0"
+        length="0"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.62</title>
       <sparkle:version>162</sparkle:version>
       <sparkle:shortVersionString>1.62</sparkle:shortVersionString>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
       <description><![CDATA[
         <h2>What's New in 1.62</h2>
         <ul>
