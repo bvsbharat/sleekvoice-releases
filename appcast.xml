@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SleekVoice Updates</title>
+    <link>https://bvsbharat.github.io/sleekvoice-releases/appcast.xml</link>
+    <description>Most recent updates for SleekVoice</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.62</title>
+      <sparkle:version>162</sparkle:version>
+      <sparkle:shortVersionString>1.62</sparkle:shortVersionString>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 1.62</h2>
+        <ul>
+          <li>Initial SleekVoice release</li>
+          <li>Rebranded from VoiceInk</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/bvsbharat/sleekvoice-releases/releases/download/v1.62/SleekVoice.dmg"
+        sparkle:version="162"
+        sparkle:shortVersionString="1.62"
+        length="0"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
