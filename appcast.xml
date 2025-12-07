@@ -6,6 +6,25 @@
     <description>Most recent updates for SleekVoice</description>
     <language>en</language>
     <item>
+      <title>Version 2.2</title>
+      <sparkle:version>220</sparkle:version>
+      <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+      <pubDate>Sat, 07 Dec 2024 04:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 2.2</h2>
+        <ul>
+          <li>App name updated to SleekVoice in sidebar</li>
+          <li>Removed signature verification for updates</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/bvsbharat/sleekvoice-releases/releases/download/v2.2/SleekVoice.dmg"
+        sparkle:version="220"
+        sparkle:shortVersionString="2.2"
+        length="0"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.1</title>
       <sparkle:version>210</sparkle:version>
       <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
