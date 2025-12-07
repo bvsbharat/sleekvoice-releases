@@ -6,6 +6,25 @@
     <description>Most recent updates for SleekVoice</description>
     <language>en</language>
     <item>
+      <title>Version 2.1</title>
+      <sparkle:version>210</sparkle:version>
+      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <pubDate>Sat, 07 Dec 2024 03:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 2.1</h2>
+        <ul>
+          <li>New yellow onboarding background</li>
+          <li>Update button enabled in settings</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/bvsbharat/sleekvoice-releases/releases/download/v2.1/SleekVoice.dmg"
+        sparkle:version="210"
+        sparkle:shortVersionString="2.1"
+        length="0"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.0</title>
       <sparkle:version>200</sparkle:version>
       <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
