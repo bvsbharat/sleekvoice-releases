@@ -6,6 +6,25 @@
     <description>Most recent updates for SleekVoice</description>
     <language>en</language>
     <item>
+      <title>Version 2.5</title>
+      <sparkle:version>250</sparkle:version>
+      <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+      <pubDate>Fri, 13 Dec 2025 18:50:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 2.5</h2>
+        <ul>
+          <li>Real-time transcription improvements</li>
+          <li>Bug fixes and performance enhancements</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/bvsbharat/sleekvoice-releases/releases/download/v2.5/SleekVoice.dmg"
+        sparkle:version="250"
+        sparkle:shortVersionString="2.5"
+        length="42744648"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.4</title>
       <sparkle:version>240</sparkle:version>
       <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
